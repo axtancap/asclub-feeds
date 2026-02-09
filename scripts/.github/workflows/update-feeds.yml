@@ -49,3 +49,4 @@ jobs:
           git add rss.xml news-sitemap.xml
           git commit -m "Auto-update feeds [$(date +'%Y-%m-%d %H:%M')]" || echo "Sem alterações"
           git push
+
