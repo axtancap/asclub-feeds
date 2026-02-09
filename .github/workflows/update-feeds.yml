@@ -1,0 +1,46 @@
+name: Update RSS & News Sitemap
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências Python
+        run: pip install -r requirements.txt
+
+      - name: Gerar RSS Feed
+        run: python scripts/scrape-framer.py
+
+      - name: Instalar dependências Node
+        run: npm install
+
+      - name: Gerar News Sitemap
+        env:
+          FEED_URL: "https://axtancap.github.io/asclub-feeds/rss.xml"
+        run: node scripts/generate-news-sitemap.js
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rss.xml news-sitemap.xml
+          git commit -m "Auto-update feeds" || echo "Sem alterações"
+          git push
