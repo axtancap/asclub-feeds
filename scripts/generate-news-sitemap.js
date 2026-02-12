@@ -1,7 +1,6 @@
 import fs from "fs";
 import { XMLParser } from "fast-xml-parser";
 
-const FEED_URL = process.env.FEED_URL;
 const PUBLICATION_NAME = "AS CLUB";
 const LANGUAGE = "pt";
 
@@ -20,17 +19,16 @@ function toArray(x) {
 }
 
 async function main() {
-  if (!FEED_URL) throw new Error("FEED_URL em falta.");
-
-  console.log(`A buscar RSS de: ${FEED_URL}`);
+  // Ler o RSS LOCAL (que acabou de ser gerado)
+  const rssPath = "rss.xml";
   
-  const res = await fetch(FEED_URL, { 
-    headers: { "User-Agent": "asclub-sitemap-bot/1.0" } 
-  });
-  
-  if (!res.ok) throw new Error(`Falha a buscar feed: ${res.status}`);
+  if (!fs.existsSync(rssPath)) {
+    throw new Error("rss.xml não encontrado! Certifica-te que o script Python correu primeiro.");
+  }
 
-  const feedText = await res.text();
+  console.log(`A ler RSS local: ${rssPath}`);
+  
+  const feedText = fs.readFileSync(rssPath, "utf8");
   const parser = new XMLParser({ ignoreAttributes: false });
   const data = parser.parse(feedText);
 
@@ -43,16 +41,6 @@ async function main() {
       title: i.title,
       url: i.link,
       date: i.pubDate || i.date
-    }));
-  }
-
-  // Atom (alternativa)
-  const atomEntries = data?.feed?.entry;
-  if (atomEntries) {
-    items = toArray(atomEntries).map(e => ({
-      title: e.title?.["#text"] ?? e.title,
-      url: (toArray(e.link).find(l => l["@_rel"] === "alternate")?.["@_href"]) || toArray(e.link)[0]?.["@_href"],
-      date: e.published || e.updated
     }));
   }
 
