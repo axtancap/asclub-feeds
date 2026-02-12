@@ -36,6 +36,9 @@ def scrape_noticias():
             url = link.get('href')
             if not url.startswith('http'):
                 url = FEED_LINK + url
+                # Remove ponto duplicado se existir
+                url = url.replace('.pt./', '.pt/')
+                url = url.replace('asclub.pt.', 'asclub.pt')
             
             # Extrai o título (h3 dentro do link)
             titulo_elem = link.find(['h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
@@ -90,9 +93,9 @@ def gerar_rss(noticias):
     ET.SubElement(channel, 'language').text = 'pt'
     ET.SubElement(channel, 'lastBuildDate').text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')
     
-    # Self-link (atualiza depois com o teu username do GitHub)
+    # Self-link
     atom_link = ET.SubElement(channel, 'atom:link')
-    atom_link.set('href', 'https://TEUUSER.github.io/asclub-feeds/rss.xml')
+    atom_link.set('href', 'https://axtancap.github.io/asclub-feeds/rss.xml')
     atom_link.set('rel', 'self')
     atom_link.set('type', 'application/rss+xml')
     
