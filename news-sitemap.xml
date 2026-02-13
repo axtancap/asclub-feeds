@@ -3,18 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.asclub.pt./noticias/pedidos-de-subsídio-de-desemprego-nos-eua-sobem-ligeiramente</loc>
+    <loc>https://www.asclub.pt/noticias/pedidos-de-subsídio-de-desemprego-nos-eua-sobem-ligeiramente</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-12T23:03:49.000Z</news:publication_date>
+      <news:publication_date>2026-02-13T05:13:21.000Z</news:publication_date>
       <news:title>Pedidos de subsídio de desemprego nos EUA sobem ligeiramente</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://www.asclub.pt./noticias/rússia-pondera-regressar-ao-dólar-no-âmbito-de-parceria-económica-com-os-eua</loc>
+    <loc>https://www.asclub.pt/noticias/rússia-pondera-regressar-ao-dólar-no-âmbito-de-parceria-económica-com-os-eua</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
@@ -25,7 +25,7 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.asclub.pt./noticias/nebius-falha-expectativas-de-eps-e-receita-mas-acelera-fortemente-no-negócio-de-ia</loc>
+    <loc>https://www.asclub.pt/noticias/nebius-falha-expectativas-de-eps-e-receita-mas-acelera-fortemente-no-negócio-de-ia</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
@@ -36,7 +36,7 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.asclub.pt./noticias/hermès-regista-crescimento-sólido-das-receitas-e-reforça-margens</loc>
+    <loc>https://www.asclub.pt/noticias/hermès-regista-crescimento-sólido-das-receitas-e-reforça-margens</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
@@ -47,7 +47,7 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.asclub.pt./noticias/mcdonald’s-supera-estimativas-e-acelera-crescimento-das-vendas-comparáveis-no-quarto-trimestre</loc>
+    <loc>https://www.asclub.pt/noticias/mcdonald’s-supera-estimativas-e-acelera-crescimento-das-vendas-comparáveis-no-quarto-trimestre</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
@@ -55,50 +55,6 @@
       </news:publication>
       <news:publication_date>2026-02-12T00:00:00.000Z</news:publication_date>
       <news:title>McDonald’s supera estimativas e acelera crescimento das vendas comparáveis no quarto trimestre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt./noticias/dados-de-emprego-dos-eua-surpreendem-pela-positiva-e-afastam-cortes-de-juros-em-março</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-11T00:00:00.000Z</news:publication_date>
-      <news:title>Dados de emprego dos EUA surpreendem pela positiva e afastam cortes de juros em março</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt./noticias/unity-software-supera-estimativas-e-destaca-forte-aceleração-do-negócio-create</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-11T00:00:00.000Z</news:publication_date>
-      <news:title>Unity Software supera estimativas e destaca forte aceleração do negócio Create</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt./noticias/humana-divulga-resultados-receita-cresce-mas-lucros-e-guidance-decepcionam</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-11T00:00:00.000Z</news:publication_date>
-      <news:title>Humana divulga resultados: receita cresce, mas lucros e guidance decepcionam</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt./noticias/empregadores-privados-nos-eua-adicionam-6.500-empregos-por-semana-vendas-a-retalho-em-dezembro-ficam-estáveis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-11T00:00:00.000Z</news:publication_date>
-      <news:title>Empregadores privados nos EUA adicionam 6.500 empregos por semana; vendas a retalho em dezembro ficam estáveis</news:title>
     </news:news>
   </url>
 </urlset>
