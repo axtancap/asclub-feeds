@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/inflação-nos-eua-abranda-mais-do-que-o-esperado</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-13T14:28:11.000Z</news:publication_date>
+      <news:title>Inflação nos EUA abranda mais do que o esperado</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/pedidos-de-subsídio-de-desemprego-nos-eua-sobem-ligeiramente</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-13T08:01:48.000Z</news:publication_date>
+      <news:publication_date>2026-02-13T00:00:00.000Z</news:publication_date>
       <news:title>Pedidos de subsídio de desemprego nos EUA sobem ligeiramente</news:title>
     </news:news>
   </url>

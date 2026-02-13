@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Fri, 13 Feb 2026 08:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 14:28:12 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Inflação nos EUA abranda mais do que o esperado</title>
+      <link>https://www.asclub.pt/noticias/inflação-nos-eua-abranda-mais-do-que-o-esperado</link>
+      <description>Inflação nos EUA abranda mais do que o esperado</description>
+      <pubDate>Fri, 13 Feb 2026 14:28:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/inflação-nos-eua-abranda-mais-do-que-o-esperado</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Pedidos de subsídio de desemprego nos EUA sobem ligeiramente</title>
       <link>https://www.asclub.pt/noticias/pedidos-de-subsídio-de-desemprego-nos-eua-sobem-ligeiramente</link>
       <description>Pedidos de subsídio de desemprego nos EUA sobem ligeiramente</description>
-      <pubDate>Fri, 13 Feb 2026 08:01:48 +0000</pubDate>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/pedidos-de-subsídio-de-desemprego-nos-eua-sobem-ligeiramente</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>Semana económica marcada por dados-chave de emprego, inflação e consumo nos EUA</description>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/semana-económica-marcada-por-dados-chave-de-emprego-inflação-e-consumo-nos-eua</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Semana de resultados promete forte volatilidade com grandes nomes do consumo, tecnologia e energia</title>
-      <link>https://www.asclub.pt/noticias/semana-de-resultados-promete-forte-volatilidade-com-grandes-nomes-do-consumo-tecnologia-e-energia</link>
-      <description>Semana de resultados promete forte volatilidade com grandes nomes do consumo, tecnologia e energia</description>
-      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/semana-de-resultados-promete-forte-volatilidade-com-grandes-nomes-do-consumo-tecnologia-e-energia</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
