@@ -9,7 +9,7 @@
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-13T19:55:17.000Z</news:publication_date>
+      <news:publication_date>2026-02-14T04:58:59.000Z</news:publication_date>
       <news:title>Inflação nos EUA abranda mais do que o esperado</news:title>
     </news:news>
   </url>
@@ -22,50 +22,6 @@
       </news:publication>
       <news:publication_date>2026-02-13T00:00:00.000Z</news:publication_date>
       <news:title>Pedidos de subsídio de desemprego nos EUA sobem ligeiramente</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/rússia-pondera-regressar-ao-dólar-no-âmbito-de-parceria-económica-com-os-eua</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T00:00:00.000Z</news:publication_date>
-      <news:title>Rússia pondera regressar ao dólar no âmbito de parceria económica com os EUA</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/nebius-falha-expectativas-de-eps-e-receita-mas-acelera-fortemente-no-negócio-de-ia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T00:00:00.000Z</news:publication_date>
-      <news:title>Nebius falha expectativas de EPS e receita, mas acelera fortemente no negócio de IA</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/hermès-regista-crescimento-sólido-das-receitas-e-reforça-margens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T00:00:00.000Z</news:publication_date>
-      <news:title>Hermès regista crescimento sólido das receitas e reforça margens</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/mcdonald’s-supera-estimativas-e-acelera-crescimento-das-vendas-comparáveis-no-quarto-trimestre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T00:00:00.000Z</news:publication_date>
-      <news:title>McDonald’s supera estimativas e acelera crescimento das vendas comparáveis no quarto trimestre</news:title>
     </news:news>
   </url>
 </urlset>
