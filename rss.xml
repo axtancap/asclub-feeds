@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Sat, 14 Feb 2026 07:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 13:55:32 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grandes empresas reforçam dividendos e recompras, enquanto a BP suspende buybacks</title>
+      <link>https://www.asclub.pt/noticias/grandes-empresas-reforçam-dividendos-e-recompras-enquanto-a-bp-suspende-buybacks</link>
+      <description>Grandes empresas reforçam dividendos e recompras, enquanto a BP suspende buybacks</description>
+      <pubDate>Sat, 14 Feb 2026 13:55:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/grandes-empresas-reforçam-dividendos-e-recompras-enquanto-a-bp-suspende-buybacks</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Inflação nos EUA abranda mais do que o esperado</title>
       <link>https://www.asclub.pt/noticias/inflação-nos-eua-abranda-mais-do-que-o-esperado</link>
       <description>Inflação nos EUA abranda mais do que o esperado</description>
-      <pubDate>Sat, 14 Feb 2026 07:48:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/inflação-nos-eua-abranda-mais-do-que-o-esperado</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>Kroger nomeia Greg Foran como novo CEO</description>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/kroger-nomeia-greg-foran-como-novo-ceo</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Semana económica marcada por dados-chave de emprego, inflação e consumo nos EUA</title>
-      <link>https://www.asclub.pt/noticias/semana-económica-marcada-por-dados-chave-de-emprego-inflação-e-consumo-nos-eua</link>
-      <description>Semana económica marcada por dados-chave de emprego, inflação e consumo nos EUA</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/semana-económica-marcada-por-dados-chave-de-emprego-inflação-e-consumo-nos-eua</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>

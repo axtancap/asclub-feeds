@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/grandes-empresas-reforçam-dividendos-e-recompras-enquanto-a-bp-suspende-buybacks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-14T13:55:32.000Z</news:publication_date>
+      <news:title>Grandes empresas reforçam dividendos e recompras, enquanto a BP suspende buybacks</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/inflação-nos-eua-abranda-mais-do-que-o-esperado</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-14T07:48:15.000Z</news:publication_date>
+      <news:publication_date>2026-02-14T00:00:00.000Z</news:publication_date>
       <news:title>Inflação nos EUA abranda mais do que o esperado</news:title>
     </news:news>
   </url>
