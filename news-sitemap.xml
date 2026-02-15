@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-15T19:05:30.000Z</news:publication_date>
+      <news:title>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/países-baixos-aprovam-imposto-de-36-sobre-ganhos-não-realizados-apesar-do-precedente-negativo-da-noruega</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-15T13:55:55.000Z</news:publication_date>
+      <news:publication_date>2026-02-15T00:00:00.000Z</news:publication_date>
       <news:title>Países Baixos aprovam imposto de 36% sobre ganhos não realizados, apesar do precedente negativo da Noruega</news:title>
     </news:news>
   </url>

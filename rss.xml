@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Sun, 15 Feb 2026 13:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 19:05:30 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</title>
+      <link>https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</link>
+      <description>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</description>
+      <pubDate>Sun, 15 Feb 2026 19:05:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Países Baixos aprovam imposto de 36% sobre ganhos não realizados, apesar do precedente negativo da Noruega</title>
       <link>https://www.asclub.pt/noticias/países-baixos-aprovam-imposto-de-36-sobre-ganhos-não-realizados-apesar-do-precedente-negativo-da-noruega</link>
       <description>Países Baixos aprovam imposto de 36% sobre ganhos não realizados, apesar do precedente negativo da Noruega</description>
-      <pubDate>Sun, 15 Feb 2026 13:55:55 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/países-baixos-aprovam-imposto-de-36-sobre-ganhos-não-realizados-apesar-do-precedente-negativo-da-noruega</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>Novo Nordisk processa Hims por comercialização ilegal de Wegovy e Ozempic. Acabou para a HIMS?</description>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/novo-nordisk-processa-hims-por-comercialização-ilegal-de-wegovy-e-ozempic.-acabou-para-a-hims</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Resultados da Pagaya Technologies superam estimativas de lucro mas desiludem em receitas e guidance</title>
-      <link>https://www.asclub.pt/noticias/resultados-da-pagaya-technologies-superam-estimativas-de-lucro-mas-desiludem-em-receitas-e-guidance</link>
-      <description>Resultados da Pagaya Technologies superam estimativas de lucro mas desiludem em receitas e guidance</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/resultados-da-pagaya-technologies-superam-estimativas-de-lucro-mas-desiludem-em-receitas-e-guidance</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
