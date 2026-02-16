@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 16 Feb 2026 08:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 14:30:45 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</title>
+      <link>https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</link>
+      <description>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</description>
+      <pubDate>Mon, 16 Feb 2026 14:30:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</title>
       <link>https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</link>
       <description>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</description>
-      <pubDate>Mon, 16 Feb 2026 08:04:06 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>ON Semiconductor supera estimativas de lucro, mas regista queda anual de receitas e EPS</description>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/on-semiconductor-supera-estimativas-de-lucro-mas-regista-queda-anual-de-receitas-e-eps</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Novo Nordisk processa Hims por comercialização ilegal de Wegovy e Ozempic. Acabou para a HIMS?</title>
-      <link>https://www.asclub.pt/noticias/novo-nordisk-processa-hims-por-comercialização-ilegal-de-wegovy-e-ozempic.-acabou-para-a-hims</link>
-      <description>Novo Nordisk processa Hims por comercialização ilegal de Wegovy e Ozempic. Acabou para a HIMS?</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/novo-nordisk-processa-hims-por-comercialização-ilegal-de-wegovy-e-ozempic.-acabou-para-a-hims</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
