@@ -3,13 +3,46 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/desemprego-no-reino-unido-sobe-para-5-2-e-atinge-máximo-de-cinco-anos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-17T19:54:57.000Z</news:publication_date>
+      <news:title>Desemprego no Reino Unido sobe para 5,2% e atinge máximo de cinco anos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/executivos-da-servicenow-cancelam-vendas-de-ações-e-ceo-anuncia-compra-adicional-de-3-milhões-de-dólares</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-17T00:00:00.000Z</news:publication_date>
+      <news:title>Executivos da ServiceNow cancelam vendas de ações e CEO anuncia compra adicional de 3 milhões de dólares</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/empresa-de-drones-militares-avança-para-ipo-com-apoio-de-eric-trump</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-17T00:00:00.000Z</news:publication_date>
+      <news:title>Empresa de drones militares avança para IPO com apoio de Eric Trump</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-17T14:36:06.000Z</news:publication_date>
+      <news:publication_date>2026-02-17T00:00:00.000Z</news:publication_date>
       <news:title>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</news:title>
     </news:news>
   </url>

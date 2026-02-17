@@ -5,13 +5,37 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Tue, 17 Feb 2026 14:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 19:54:57 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Desemprego no Reino Unido sobe para 5,2% e atinge máximo de cinco anos</title>
+      <link>https://www.asclub.pt/noticias/desemprego-no-reino-unido-sobe-para-5-2-e-atinge-máximo-de-cinco-anos</link>
+      <description>Desemprego no Reino Unido sobe para 5,2% e atinge máximo de cinco anos</description>
+      <pubDate>Tue, 17 Feb 2026 19:54:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/desemprego-no-reino-unido-sobe-para-5-2-e-atinge-máximo-de-cinco-anos</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>Executivos da ServiceNow cancelam vendas de ações e CEO anuncia compra adicional de 3 milhões de dólares</title>
+      <link>https://www.asclub.pt/noticias/executivos-da-servicenow-cancelam-vendas-de-ações-e-ceo-anuncia-compra-adicional-de-3-milhões-de-dólares</link>
+      <description>Executivos da ServiceNow cancelam vendas de ações e CEO anuncia compra adicional de 3 milhões de dólares</description>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/executivos-da-servicenow-cancelam-vendas-de-ações-e-ceo-anuncia-compra-adicional-de-3-milhões-de-dólares</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>Empresa de drones militares avança para IPO com apoio de Eric Trump</title>
+      <link>https://www.asclub.pt/noticias/empresa-de-drones-militares-avança-para-ipo-com-apoio-de-eric-trump</link>
+      <description>Empresa de drones militares avança para IPO com apoio de Eric Trump</description>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/empresa-de-drones-militares-avança-para-ipo-com-apoio-de-eric-trump</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</title>
       <link>https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</link>
       <description>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</description>
-      <pubDate>Tue, 17 Feb 2026 14:36:06 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -141,30 +165,6 @@
       <description>Datadog supera estimativas trimestrais, mas apresenta guidance anual mais prudente</description>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/datadog-supera-estimativas-trimestrais-mas-apresenta-guidance-anual-mais-prudente</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>CVS Health supera estimativas trimestrais e mantém guidance anual em linha com o mercado</title>
-      <link>https://www.asclub.pt/noticias/cvs-health-supera-estimativas-trimestrais-e-mantém-guidance-anual-em-linha-com-o-mercado</link>
-      <description>CVS Health supera estimativas trimestrais e mantém guidance anual em linha com o mercado</description>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/cvs-health-supera-estimativas-trimestrais-e-mantém-guidance-anual-em-linha-com-o-mercado</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Oscar Health falha estimativas trimestrais, mas aponta regresso à rentabilidade em 2026</title>
-      <link>https://www.asclub.pt/noticias/oscar-health-falha-estimativas-trimestrais-mas-aponta-regresso-à-rentabilidade-em-2026</link>
-      <description>Oscar Health falha estimativas trimestrais, mas aponta regresso à rentabilidade em 2026</description>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/oscar-health-falha-estimativas-trimestrais-mas-aponta-regresso-à-rentabilidade-em-2026</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>ON Semiconductor supera estimativas de lucro, mas regista queda anual de receitas e EPS</title>
-      <link>https://www.asclub.pt/noticias/on-semiconductor-supera-estimativas-de-lucro-mas-regista-queda-anual-de-receitas-e-eps</link>
-      <description>ON Semiconductor supera estimativas de lucro, mas regista queda anual de receitas e EPS</description>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/on-semiconductor-supera-estimativas-de-lucro-mas-regista-queda-anual-de-receitas-e-eps</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
