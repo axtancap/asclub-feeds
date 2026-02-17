@@ -9,7 +9,7 @@
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-16T19:45:48.000Z</news:publication_date>
+      <news:publication_date>2026-02-17T05:13:37.000Z</news:publication_date>
       <news:title>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</news:title>
     </news:news>
   </url>
@@ -22,17 +22,6 @@
       </news:publication>
       <news:publication_date>2026-02-16T00:00:00.000Z</news:publication_date>
       <news:title>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/países-baixos-aprovam-imposto-de-36-sobre-ganhos-não-realizados-apesar-do-precedente-negativo-da-noruega</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-15T00:00:00.000Z</news:publication_date>
-      <news:title>Países Baixos aprovam imposto de 36% sobre ganhos não realizados, apesar do precedente negativo da Noruega</news:title>
     </news:news>
   </url>
 </urlset>
