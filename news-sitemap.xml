@@ -3,13 +3,46 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/wall-street-reforça-aposta-na-bitmine-e-tom-lee-reforca-posição-em-eth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-18T14:34:56.000Z</news:publication_date>
+      <news:title>Wall Street reforça aposta na BitMine e Tom Lee reforca posição em $ETH</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/analog-devices-surpreende-com-forte-crescimento-e-eleva-guidance-para-novo-máximo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-18T00:00:00.000Z</news:publication_date>
+      <news:title>Analog Devices surpreende com forte crescimento e eleva guidance para novo máximo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/christine-lagarde-pondera-saída-antecipada-do-bce-antes-de-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-18T00:00:00.000Z</news:publication_date>
+      <news:title>Christine Lagarde pondera saída antecipada do BCE antes de 2027</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/palo-alto-networks-supera-expectativas-mas-guidance-levanta-cautela-no-mercado</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-18T08:02:13.000Z</news:publication_date>
+      <news:publication_date>2026-02-18T00:00:00.000Z</news:publication_date>
       <news:title>Palo Alto Networks supera expectativas, mas guidance levanta cautela no mercado</news:title>
     </news:news>
   </url>
