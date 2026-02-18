@@ -3,13 +3,35 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/palo-alto-networks-supera-expectativas-mas-guidance-levanta-cautela-no-mercado</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-18T05:15:50.000Z</news:publication_date>
+      <news:title>Palo Alto Networks supera expectativas, mas guidance levanta cautela no mercado</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/acordo-comercial-eua–japão-arranca-com-investimentos-de-550-biliões-de-dólares</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-17T00:00:00.000Z</news:publication_date>
+      <news:title>Acordo comercial EUA–Japão arranca com investimentos de 550 biliões de dólares</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/desemprego-no-reino-unido-sobe-para-5-2-e-atinge-máximo-de-cinco-anos</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-17T19:54:57.000Z</news:publication_date>
+      <news:publication_date>2026-02-17T00:00:00.000Z</news:publication_date>
       <news:title>Desemprego no Reino Unido sobe para 5,2% e atinge máximo de cinco anos</news:title>
     </news:news>
   </url>
@@ -44,17 +66,6 @@
       </news:publication>
       <news:publication_date>2026-02-17T00:00:00.000Z</news:publication_date>
       <news:title>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-16T00:00:00.000Z</news:publication_date>
-      <news:title>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</news:title>
     </news:news>
   </url>
 </urlset>

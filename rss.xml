@@ -5,13 +5,29 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Tue, 17 Feb 2026 19:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 05:15:50 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Palo Alto Networks supera expectativas, mas guidance levanta cautela no mercado</title>
+      <link>https://www.asclub.pt/noticias/palo-alto-networks-supera-expectativas-mas-guidance-levanta-cautela-no-mercado</link>
+      <description>Palo Alto Networks supera expectativas, mas guidance levanta cautela no mercado</description>
+      <pubDate>Wed, 18 Feb 2026 05:15:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/palo-alto-networks-supera-expectativas-mas-guidance-levanta-cautela-no-mercado</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>Acordo comercial EUA–Japão arranca com investimentos de 550 biliões de dólares</title>
+      <link>https://www.asclub.pt/noticias/acordo-comercial-eua–japão-arranca-com-investimentos-de-550-biliões-de-dólares</link>
+      <description>Acordo comercial EUA–Japão arranca com investimentos de 550 biliões de dólares</description>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/acordo-comercial-eua–japão-arranca-com-investimentos-de-550-biliões-de-dólares</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Desemprego no Reino Unido sobe para 5,2% e atinge máximo de cinco anos</title>
       <link>https://www.asclub.pt/noticias/desemprego-no-reino-unido-sobe-para-5-2-e-atinge-máximo-de-cinco-anos</link>
       <description>Desemprego no Reino Unido sobe para 5,2% e atinge máximo de cinco anos</description>
-      <pubDate>Tue, 17 Feb 2026 19:54:57 +0000</pubDate>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/desemprego-no-reino-unido-sobe-para-5-2-e-atinge-máximo-de-cinco-anos</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -149,22 +165,6 @@
       <description>Spotify regista EPS recorde</description>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/spotify-(-spot)-regista-eps-recorde</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Ferrari apresenta crescimento sólido em receitas e lucros</title>
-      <link>https://www.asclub.pt/noticias/ferrari-apresenta-crescimento-sólido-em-receitas-e-lucros</link>
-      <description>Ferrari apresenta crescimento sólido em receitas e lucros</description>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/ferrari-apresenta-crescimento-sólido-em-receitas-e-lucros</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Datadog supera estimativas trimestrais, mas apresenta guidance anual mais prudente</title>
-      <link>https://www.asclub.pt/noticias/datadog-supera-estimativas-trimestrais-mas-apresenta-guidance-anual-mais-prudente</link>
-      <description>Datadog supera estimativas trimestrais, mas apresenta guidance anual mais prudente</description>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/datadog-supera-estimativas-trimestrais-mas-apresenta-guidance-anual-mais-prudente</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
