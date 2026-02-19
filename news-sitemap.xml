@@ -3,13 +3,46 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/walmart-supera-expectativas-no-trimestre-mas-guidance-fica-abaixo-do-consenso</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-19T14:38:44.000Z</news:publication_date>
+      <news:title>Walmart supera expectativas no trimestre, mas guidance fica abaixo do consenso</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/lemonade-apresenta-o-melhor-trimestre-da-sua-história-e-reforça-crescimento-para-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-19T00:00:00.000Z</news:publication_date>
+      <news:title>Lemonade apresenta o melhor trimestre da sua história e reforça crescimento para 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/john-deere-supera-expectativas-e-melhora-previsão-para-2026-apesar-da-queda-anual-nos-lucros</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-19T00:00:00.000Z</news:publication_date>
+      <news:title>John Deere supera expectativas e melhora previsão para 2026 apesar da queda anual nos lucros</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/doordash-cresce-a-ritmo-acelerado-apesar-de-resultados-abaixo-das-estimativas</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-19T08:01:12.000Z</news:publication_date>
+      <news:publication_date>2026-02-19T00:00:00.000Z</news:publication_date>
       <news:title>DoorDash cresce a ritmo acelerado apesar de resultados abaixo das estimativas</news:title>
     </news:news>
   </url>

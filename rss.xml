@@ -5,13 +5,37 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Thu, 19 Feb 2026 08:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 14:38:44 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Walmart supera expectativas no trimestre, mas guidance fica abaixo do consenso</title>
+      <link>https://www.asclub.pt/noticias/walmart-supera-expectativas-no-trimestre-mas-guidance-fica-abaixo-do-consenso</link>
+      <description>Walmart supera expectativas no trimestre, mas guidance fica abaixo do consenso</description>
+      <pubDate>Thu, 19 Feb 2026 14:38:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/walmart-supera-expectativas-no-trimestre-mas-guidance-fica-abaixo-do-consenso</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>Lemonade apresenta o melhor trimestre da sua história e reforça crescimento para 2026</title>
+      <link>https://www.asclub.pt/noticias/lemonade-apresenta-o-melhor-trimestre-da-sua-história-e-reforça-crescimento-para-2026</link>
+      <description>Lemonade apresenta o melhor trimestre da sua história e reforça crescimento para 2026</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/lemonade-apresenta-o-melhor-trimestre-da-sua-história-e-reforça-crescimento-para-2026</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>John Deere supera expectativas e melhora previsão para 2026 apesar da queda anual nos lucros</title>
+      <link>https://www.asclub.pt/noticias/john-deere-supera-expectativas-e-melhora-previsão-para-2026-apesar-da-queda-anual-nos-lucros</link>
+      <description>John Deere supera expectativas e melhora previsão para 2026 apesar da queda anual nos lucros</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/john-deere-supera-expectativas-e-melhora-previsão-para-2026-apesar-da-queda-anual-nos-lucros</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>DoorDash cresce a ritmo acelerado apesar de resultados abaixo das estimativas</title>
       <link>https://www.asclub.pt/noticias/doordash-cresce-a-ritmo-acelerado-apesar-de-resultados-abaixo-das-estimativas</link>
       <description>DoorDash cresce a ritmo acelerado apesar de resultados abaixo das estimativas</description>
-      <pubDate>Thu, 19 Feb 2026 08:01:12 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/doordash-cresce-a-ritmo-acelerado-apesar-de-resultados-abaixo-das-estimativas</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -141,30 +165,6 @@
       <description>Rússia pondera regressar ao dólar no âmbito de parceria económica com os EUA</description>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/rússia-pondera-regressar-ao-dólar-no-âmbito-de-parceria-económica-com-os-eua</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Nebius falha expectativas de EPS e receita, mas acelera fortemente no negócio de IA</title>
-      <link>https://www.asclub.pt/noticias/nebius-falha-expectativas-de-eps-e-receita-mas-acelera-fortemente-no-negócio-de-ia</link>
-      <description>Nebius falha expectativas de EPS e receita, mas acelera fortemente no negócio de IA</description>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/nebius-falha-expectativas-de-eps-e-receita-mas-acelera-fortemente-no-negócio-de-ia</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Hermès regista crescimento sólido das receitas e reforça margens</title>
-      <link>https://www.asclub.pt/noticias/hermès-regista-crescimento-sólido-das-receitas-e-reforça-margens</link>
-      <description>Hermès regista crescimento sólido das receitas e reforça margens</description>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/hermès-regista-crescimento-sólido-das-receitas-e-reforça-margens</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>McDonald’s supera estimativas e acelera crescimento das vendas comparáveis no quarto trimestre</title>
-      <link>https://www.asclub.pt/noticias/mcdonald’s-supera-estimativas-e-acelera-crescimento-das-vendas-comparáveis-no-quarto-trimestre</link>
-      <description>McDonald’s supera estimativas e acelera crescimento das vendas comparáveis no quarto trimestre</description>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/mcdonald’s-supera-estimativas-e-acelera-crescimento-das-vendas-comparáveis-no-quarto-trimestre</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
