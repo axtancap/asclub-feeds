@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/economia-dos-eua-abranda-no-4.º-trimestre-e-inflação-pce-volta-a-acelerar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-20T14:24:35.000Z</news:publication_date>
+      <news:title>Economia dos EUA abranda no 4.º trimestre e inflação PCE volta a acelerar</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/walmart-supera-expectativas-no-trimestre-mas-guidance-fica-abaixo-do-consenso</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-20T08:00:02.000Z</news:publication_date>
+      <news:publication_date>2026-02-20T00:00:00.000Z</news:publication_date>
       <news:title>Walmart supera expectativas no trimestre, mas guidance fica abaixo do consenso</news:title>
     </news:news>
   </url>

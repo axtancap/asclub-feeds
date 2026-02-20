@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Fri, 20 Feb 2026 08:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 14:24:35 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Economia dos EUA abranda no 4.º trimestre e inflação PCE volta a acelerar</title>
+      <link>https://www.asclub.pt/noticias/economia-dos-eua-abranda-no-4.º-trimestre-e-inflação-pce-volta-a-acelerar</link>
+      <description>Economia dos EUA abranda no 4.º trimestre e inflação PCE volta a acelerar</description>
+      <pubDate>Fri, 20 Feb 2026 14:24:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/economia-dos-eua-abranda-no-4.º-trimestre-e-inflação-pce-volta-a-acelerar</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Walmart supera expectativas no trimestre, mas guidance fica abaixo do consenso</title>
       <link>https://www.asclub.pt/noticias/walmart-supera-expectativas-no-trimestre-mas-guidance-fica-abaixo-do-consenso</link>
       <description>Walmart supera expectativas no trimestre, mas guidance fica abaixo do consenso</description>
-      <pubDate>Fri, 20 Feb 2026 08:00:02 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/walmart-supera-expectativas-no-trimestre-mas-guidance-fica-abaixo-do-consenso</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>Pedidos de subsídio de desemprego nos EUA sobem ligeiramente</description>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/pedidos-de-subsídio-de-desemprego-nos-eua-sobem-ligeiramente</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Rússia pondera regressar ao dólar no âmbito de parceria económica com os EUA</title>
-      <link>https://www.asclub.pt/noticias/rússia-pondera-regressar-ao-dólar-no-âmbito-de-parceria-económica-com-os-eua</link>
-      <description>Rússia pondera regressar ao dólar no âmbito de parceria económica com os EUA</description>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/rússia-pondera-regressar-ao-dólar-no-âmbito-de-parceria-económica-com-os-eua</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
