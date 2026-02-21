@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/dividendos-recompras-e-insider-buying-marcam-semana-intensa-nos-mercados</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-21T13:54:05.000Z</news:publication_date>
+      <news:title>Dividendos, recompras e insider buying marcam semana intensa nos mercados</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/economia-dos-eua-abranda-no-4.º-trimestre-e-inflação-pce-volta-a-acelerar</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-21T07:44:27.000Z</news:publication_date>
+      <news:publication_date>2026-02-21T00:00:00.000Z</news:publication_date>
       <news:title>Economia dos EUA abranda no 4.º trimestre e inflação PCE volta a acelerar</news:title>
     </news:news>
   </url>
