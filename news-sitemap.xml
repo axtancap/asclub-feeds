@@ -9,7 +9,7 @@
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-20T19:48:35.000Z</news:publication_date>
+      <news:publication_date>2026-02-21T04:52:32.000Z</news:publication_date>
       <news:title>Economia dos EUA abranda no 4.º trimestre e inflação PCE volta a acelerar</news:title>
     </news:news>
   </url>
@@ -22,50 +22,6 @@
       </news:publication>
       <news:publication_date>2026-02-20T00:00:00.000Z</news:publication_date>
       <news:title>Walmart supera expectativas no trimestre, mas guidance fica abaixo do consenso</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/lemonade-apresenta-o-melhor-trimestre-da-sua-história-e-reforça-crescimento-para-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-19T00:00:00.000Z</news:publication_date>
-      <news:title>Lemonade apresenta o melhor trimestre da sua história e reforça crescimento para 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/john-deere-supera-expectativas-e-melhora-previsão-para-2026-apesar-da-queda-anual-nos-lucros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-19T00:00:00.000Z</news:publication_date>
-      <news:title>John Deere supera expectativas e melhora previsão para 2026 apesar da queda anual nos lucros</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/doordash-cresce-a-ritmo-acelerado-apesar-de-resultados-abaixo-das-estimativas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-19T00:00:00.000Z</news:publication_date>
-      <news:title>DoorDash cresce a ritmo acelerado apesar de resultados abaixo das estimativas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/booking-holdings-supera-expectativas-e-anuncia-stock-split-de-25-para-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-19T00:00:00.000Z</news:publication_date>
-      <news:title>Booking Holdings supera expectativas e anuncia stock split de 25 para 1</news:title>
     </news:news>
   </url>
 </urlset>
