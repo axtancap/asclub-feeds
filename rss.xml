@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 23 Feb 2026 14:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 20:06:13 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASML apresenta avanço na fonte de luz EUV que poderá aumentar produção de chips em 50% até 2030</title>
+      <link>https://www.asclub.pt/noticias/asml-apresenta-avanço-na-fonte-de-luz-euv-que-poderá-aumentar-produção-de-chips-em-50-até-2030</link>
+      <description>ASML apresenta avanço na fonte de luz EUV que poderá aumentar produção de chips em 50% até 2030</description>
+      <pubDate>Mon, 23 Feb 2026 20:06:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/asml-apresenta-avanço-na-fonte-de-luz-euv-que-poderá-aumentar-produção-de-chips-em-50-até-2030</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Novo Nordisk cai 15% após resultados desapontantes do CagriSema</title>
       <link>https://www.asclub.pt/noticias/novo-nordisk-cai-14-após-resultados-desapontantes-do-cagrisema</link>
       <description>Novo Nordisk cai 15% após resultados desapontantes do CagriSema</description>
-      <pubDate>Mon, 23 Feb 2026 14:37:34 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/novo-nordisk-cai-14-após-resultados-desapontantes-do-cagrisema</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>Empresa de drones militares avança para IPO com apoio de Eric Trump</description>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/empresa-de-drones-militares-avança-para-ipo-com-apoio-de-eric-trump</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</title>
-      <link>https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</link>
-      <description>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</description>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>
