@@ -5,13 +5,29 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 23 Feb 2026 08:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 14:37:34 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Novo Nordisk cai 15% após resultados desapontantes do CagriSema</title>
+      <link>https://www.asclub.pt/noticias/novo-nordisk-cai-14-após-resultados-desapontantes-do-cagrisema</link>
+      <description>Novo Nordisk cai 15% após resultados desapontantes do CagriSema</description>
+      <pubDate>Mon, 23 Feb 2026 14:37:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/novo-nordisk-cai-14-após-resultados-desapontantes-do-cagrisema</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>Domino’s supera em receitas e aumenta dividendo em 15%</title>
+      <link>https://www.asclub.pt/noticias/domino’s-supera-em-receitas-e-aumenta-dividendo-em-15</link>
+      <description>Domino’s supera em receitas e aumenta dividendo em 15%</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/domino’s-supera-em-receitas-e-aumenta-dividendo-em-15</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Semana de earnings promete forte volatilidade em Wall Street</title>
       <link>https://www.asclub.pt/noticias/semana-de-earnings-promete-forte-volatilidade-em-wall-street</link>
       <description>Semana de earnings promete forte volatilidade em Wall Street</description>
-      <pubDate>Mon, 23 Feb 2026 08:05:23 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/semana-de-earnings-promete-forte-volatilidade-em-wall-street</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -149,22 +165,6 @@
       <description>Resultados empresariais marcam a próxima semana com foco em retalho, tecnologia e consumo</description>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/resultados-empresariais-marcam-a-próxima-semana-com-foco-em-retalho-tecnologia-e-consumo</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</title>
-      <link>https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</link>
-      <description>Semana intensa nos mercados com dados macro, Fed e resultados empresariais</description>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/semana-intensa-nos-mercados-com-dados-macro-fed-e-resultados-empresariais</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Países Baixos aprovam imposto de 36% sobre ganhos não realizados, apesar do precedente negativo da Noruega</title>
-      <link>https://www.asclub.pt/noticias/países-baixos-aprovam-imposto-de-36-sobre-ganhos-não-realizados-apesar-do-precedente-negativo-da-noruega</link>
-      <description>Países Baixos aprovam imposto de 36% sobre ganhos não realizados, apesar do precedente negativo da Noruega</description>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/países-baixos-aprovam-imposto-de-36-sobre-ganhos-não-realizados-apesar-do-precedente-negativo-da-noruega</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>

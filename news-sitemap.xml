@@ -3,13 +3,35 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/novo-nordisk-cai-14-após-resultados-desapontantes-do-cagrisema</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-23T14:37:34.000Z</news:publication_date>
+      <news:title>Novo Nordisk cai 15% após resultados desapontantes do CagriSema</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/domino’s-supera-em-receitas-e-aumenta-dividendo-em-15</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
+      <news:title>Domino’s supera em receitas e aumenta dividendo em 15%</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/semana-de-earnings-promete-forte-volatilidade-em-wall-street</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-23T08:05:23.000Z</news:publication_date>
+      <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
       <news:title>Semana de earnings promete forte volatilidade em Wall Street</news:title>
     </news:news>
   </url>
