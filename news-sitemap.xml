@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/hims-hers-supera-no-eps-mas-guidance-dececiona-e-pressiona-expectativas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T05:13:35.000Z</news:publication_date>
+      <news:title>Hims &amp; Hers supera no EPS mas guidance dececiona e pressiona expectativas</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/asml-apresenta-avanço-na-fonte-de-luz-euv-que-poderá-aumentar-produção-de-chips-em-50-até-2030</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-23T20:06:13.000Z</news:publication_date>
+      <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
       <news:title>ASML apresenta avanço na fonte de luz EUV que poderá aumentar produção de chips em 50% até 2030</news:title>
     </news:news>
   </url>
@@ -44,28 +55,6 @@
       </news:publication>
       <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
       <news:title>Semana de earnings promete forte volatilidade em Wall Street</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/semana-decisiva-nos-mercados-inflação-fed-nvidia-e-impacto-das-novas-tarifas-de-trump-em-foco</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-22T00:00:00.000Z</news:publication_date>
-      <news:title>Semana decisiva nos mercados: inflação, Fed, Nvidia e impacto das novas tarifas de Trump em foco</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/dividendos-recompras-e-insider-buying-marcam-semana-intensa-nos-mercados</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-22T00:00:00.000Z</news:publication_date>
-      <news:title>Dividendos, recompras e insider buying marcam semana intensa nos mercados</news:title>
     </news:news>
   </url>
 </urlset>
