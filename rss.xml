@@ -5,13 +5,37 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Wed, 25 Feb 2026 08:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 14:41:05 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Eelco Heinen recua e cancela imposto de 36% sobre ganhos não realizados nos Países Baixos</title>
+      <link>https://www.asclub.pt/noticias/eelco-heinen-recua-e-cancela-imposto-de-36-sobre-ganhos-não-realizados-nos-países-baixos</link>
+      <description>Eelco Heinen recua e cancela imposto de 36% sobre ganhos não realizados nos Países Baixos</description>
+      <pubDate>Wed, 25 Feb 2026 14:41:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/eelco-heinen-recua-e-cancela-imposto-de-36-sobre-ganhos-não-realizados-nos-países-baixos</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>Lowe’s supera estimativas no trimestre e mantém perspetivas sólidas para 2026</title>
+      <link>https://www.asclub.pt/noticias/lowe’s-supera-estimativas-no-trimestre-e-mantém-perspetivas-sólidas-para-2026</link>
+      <description>Lowe’s supera estimativas no trimestre e mantém perspetivas sólidas para 2026</description>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/lowe’s-supera-estimativas-no-trimestre-e-mantém-perspetivas-sólidas-para-2026</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
+    <item>
+      <title>Circle Internet Financial supera estimativas e acelera crescimento do USDC</title>
+      <link>https://www.asclub.pt/noticias/circle-internet-financial-supera-estimativas-e-acelera-crescimento-do-usdc</link>
+      <description>Circle Internet Financial supera estimativas e acelera crescimento do USDC</description>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/circle-internet-financial-supera-estimativas-e-acelera-crescimento-do-usdc</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Stripe pondera aquisição total ou parcial da PayPal</title>
       <link>https://www.asclub.pt/noticias/stripe-pondera-aquisição-total-ou-parcial-da-paypal</link>
       <description>Stripe pondera aquisição total ou parcial da PayPal</description>
-      <pubDate>Wed, 25 Feb 2026 08:05:36 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/stripe-pondera-aquisição-total-ou-parcial-da-paypal</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -141,30 +165,6 @@
       <description>John Deere supera expectativas e melhora previsão para 2026 apesar da queda anual nos lucros</description>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/john-deere-supera-expectativas-e-melhora-previsão-para-2026-apesar-da-queda-anual-nos-lucros</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>DoorDash cresce a ritmo acelerado apesar de resultados abaixo das estimativas</title>
-      <link>https://www.asclub.pt/noticias/doordash-cresce-a-ritmo-acelerado-apesar-de-resultados-abaixo-das-estimativas</link>
-      <description>DoorDash cresce a ritmo acelerado apesar de resultados abaixo das estimativas</description>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/doordash-cresce-a-ritmo-acelerado-apesar-de-resultados-abaixo-das-estimativas</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Booking Holdings supera expectativas e anuncia stock split de 25 para 1</title>
-      <link>https://www.asclub.pt/noticias/booking-holdings-supera-expectativas-e-anuncia-stock-split-de-25-para-1</link>
-      <description>Booking Holdings supera expectativas e anuncia stock split de 25 para 1</description>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/booking-holdings-supera-expectativas-e-anuncia-stock-split-de-25-para-1</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Wall Street reforça aposta na BitMine e Tom Lee reforca posição em $ETH</title>
-      <link>https://www.asclub.pt/noticias/wall-street-reforça-aposta-na-bitmine-e-tom-lee-reforca-posição-em-eth</link>
-      <description>Wall Street reforça aposta na BitMine e Tom Lee reforca posição em $ETH</description>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/wall-street-reforça-aposta-na-bitmine-e-tom-lee-reforca-posição-em-eth</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>

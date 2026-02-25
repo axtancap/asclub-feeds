@@ -3,13 +3,46 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/eelco-heinen-recua-e-cancela-imposto-de-36-sobre-ganhos-não-realizados-nos-países-baixos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T14:41:05.000Z</news:publication_date>
+      <news:title>Eelco Heinen recua e cancela imposto de 36% sobre ganhos não realizados nos Países Baixos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/lowe’s-supera-estimativas-no-trimestre-e-mantém-perspetivas-sólidas-para-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T00:00:00.000Z</news:publication_date>
+      <news:title>Lowe’s supera estimativas no trimestre e mantém perspetivas sólidas para 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/circle-internet-financial-supera-estimativas-e-acelera-crescimento-do-usdc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T00:00:00.000Z</news:publication_date>
+      <news:title>Circle Internet Financial supera estimativas e acelera crescimento do USDC</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/stripe-pondera-aquisição-total-ou-parcial-da-paypal</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-25T08:05:36.000Z</news:publication_date>
+      <news:publication_date>2026-02-25T00:00:00.000Z</news:publication_date>
       <news:title>Stripe pondera aquisição total ou parcial da PayPal</news:title>
     </news:news>
   </url>
