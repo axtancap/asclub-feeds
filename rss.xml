@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Wed, 25 Feb 2026 14:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:56:06 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gigantes tecnológicas vão assinar acordo com Donald Trump para garantir energia própria a centros de dados de IA</title>
+      <link>https://www.asclub.pt/noticias/gigantes-tecnológicas-vão-assinar-acordo-com-donald-trump-para-garantir-energia-própria-a-centros-de-dados-de-ia</link>
+      <description>Gigantes tecnológicas vão assinar acordo com Donald Trump para garantir energia própria a centros de dados de IA</description>
+      <pubDate>Wed, 25 Feb 2026 19:56:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/gigantes-tecnológicas-vão-assinar-acordo-com-donald-trump-para-garantir-energia-própria-a-centros-de-dados-de-ia</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Eelco Heinen recua e cancela imposto de 36% sobre ganhos não realizados nos Países Baixos</title>
       <link>https://www.asclub.pt/noticias/eelco-heinen-recua-e-cancela-imposto-de-36-sobre-ganhos-não-realizados-nos-países-baixos</link>
       <description>Eelco Heinen recua e cancela imposto de 36% sobre ganhos não realizados nos Países Baixos</description>
-      <pubDate>Wed, 25 Feb 2026 14:41:05 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/eelco-heinen-recua-e-cancela-imposto-de-36-sobre-ganhos-não-realizados-nos-países-baixos</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>Lemonade apresenta o melhor trimestre da sua história e reforça crescimento para 2026</description>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/lemonade-apresenta-o-melhor-trimestre-da-sua-história-e-reforça-crescimento-para-2026</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>John Deere supera expectativas e melhora previsão para 2026 apesar da queda anual nos lucros</title>
-      <link>https://www.asclub.pt/noticias/john-deere-supera-expectativas-e-melhora-previsão-para-2026-apesar-da-queda-anual-nos-lucros</link>
-      <description>John Deere supera expectativas e melhora previsão para 2026 apesar da queda anual nos lucros</description>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/john-deere-supera-expectativas-e-melhora-previsão-para-2026-apesar-da-queda-anual-nos-lucros</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>

@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/gigantes-tecnológicas-vão-assinar-acordo-com-donald-trump-para-garantir-energia-própria-a-centros-de-dados-de-ia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T19:56:06.000Z</news:publication_date>
+      <news:title>Gigantes tecnológicas vão assinar acordo com Donald Trump para garantir energia própria a centros de dados de IA</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/eelco-heinen-recua-e-cancela-imposto-de-36-sobre-ganhos-não-realizados-nos-países-baixos</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-25T14:41:05.000Z</news:publication_date>
+      <news:publication_date>2026-02-25T00:00:00.000Z</news:publication_date>
       <news:title>Eelco Heinen recua e cancela imposto de 36% sobre ganhos não realizados nos Países Baixos</news:title>
     </news:news>
   </url>
