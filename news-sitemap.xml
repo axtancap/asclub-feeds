@@ -3,13 +3,57 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/stripe-pondera-aquisição-total-ou-parcial-da-paypal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T05:15:52.000Z</news:publication_date>
+      <news:title>Stripe pondera aquisição total ou parcial da PayPal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/tempus-ai-acelera-crescimento-com-receitas-a-subir-83-em-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
+      <news:title>Tempus AI acelera crescimento com receitas a subir 83% em 2025</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/realty-income-supera-expectativas-nas-receitas-e-mantém-elevada-taxa-de-ocupação</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
+      <news:title>Realty Income supera expectativas nas receitas e mantém elevada taxa de ocupação</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/mercadolibre-cresce-45-nas-receitas-mas-lucro-por-ação-falha-estimativas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
+      <news:title>MercadoLibre cresce 45% nas receitas, mas lucro por ação falha estimativas</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/home-depot-supera-estimativas-mas-mantém-pressão-nas-receitas-e-lucros</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-24T19:53:44.000Z</news:publication_date>
+      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
       <news:title>Home Depot supera estimativas, mas mantém pressão nas receitas e lucros</news:title>
     </news:news>
   </url>
@@ -33,50 +77,6 @@
       </news:publication>
       <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
       <news:title>Hims &amp; Hers supera no EPS mas guidance dececiona e pressiona expectativas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/asml-apresenta-avanço-na-fonte-de-luz-euv-que-poderá-aumentar-produção-de-chips-em-50-até-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
-      <news:title>ASML apresenta avanço na fonte de luz EUV que poderá aumentar produção de chips em 50% até 2030</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/novo-nordisk-cai-14-após-resultados-desapontantes-do-cagrisema</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
-      <news:title>Novo Nordisk cai 15% após resultados desapontantes do CagriSema</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/domino’s-supera-em-receitas-e-aumenta-dividendo-em-15</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
-      <news:title>Domino’s supera em receitas e aumenta dividendo em 15%</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/semana-de-earnings-promete-forte-volatilidade-em-wall-street</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T00:00:00.000Z</news:publication_date>
-      <news:title>Semana de earnings promete forte volatilidade em Wall Street</news:title>
     </news:news>
   </url>
 </urlset>
