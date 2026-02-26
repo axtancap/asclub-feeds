@@ -3,13 +3,35 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/salesforce-supera-estimativas-e-reforça-aposta-em-ia-com-recompra-de-50-biliões-de-dólares</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26T05:12:08.000Z</news:publication_date>
+      <news:title>Salesforce supera estimativas e reforça aposta em IA com recompra de 50 biliões de dólares</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.asclub.pt/noticias/nvidia-dispara-73-em-receitas-e-supera-estimativas-com-força-do-data-center</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T00:00:00.000Z</news:publication_date>
+      <news:title>Nvidia dispara 73% em receitas e supera estimativas com força do Data Center</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/gigantes-tecnológicas-vão-assinar-acordo-com-donald-trump-para-garantir-energia-própria-a-centros-de-dados-de-ia</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-25T19:56:06.000Z</news:publication_date>
+      <news:publication_date>2026-02-25T00:00:00.000Z</news:publication_date>
       <news:title>Gigantes tecnológicas vão assinar acordo com Donald Trump para garantir energia própria a centros de dados de IA</news:title>
     </news:news>
   </url>
@@ -55,72 +77,6 @@
       </news:publication>
       <news:publication_date>2026-02-25T00:00:00.000Z</news:publication_date>
       <news:title>Stripe pondera aquisição total ou parcial da PayPal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/tempus-ai-acelera-crescimento-com-receitas-a-subir-83-em-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
-      <news:title>Tempus AI acelera crescimento com receitas a subir 83% em 2025</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/realty-income-supera-expectativas-nas-receitas-e-mantém-elevada-taxa-de-ocupação</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
-      <news:title>Realty Income supera expectativas nas receitas e mantém elevada taxa de ocupação</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/mercadolibre-cresce-45-nas-receitas-mas-lucro-por-ação-falha-estimativas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
-      <news:title>MercadoLibre cresce 45% nas receitas, mas lucro por ação falha estimativas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/home-depot-supera-estimativas-mas-mantém-pressão-nas-receitas-e-lucros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
-      <news:title>Home Depot supera estimativas, mas mantém pressão nas receitas e lucros</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/uber-vai-adquirir-spothero-e-entra-em-força-no-mercado-de-reservas-de-estacionamento</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
-      <news:title>Uber vai adquirir SpotHero e entra em força no mercado de reservas de estacionamento</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.asclub.pt/noticias/hims-hers-supera-no-eps-mas-guidance-dececiona-e-pressiona-expectativas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>AS CLUB</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
-      <news:title>Hims &amp; Hers supera no EPS mas guidance dececiona e pressiona expectativas</news:title>
     </news:news>
   </url>
 </urlset>
