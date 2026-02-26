@@ -5,13 +5,21 @@
     <link>https://www.asclub.pt</link>
     <description>Últimas notícias de finanças e investimentos do AS Club</description>
     <language>pt</language>
-    <lastBuildDate>Thu, 26 Feb 2026 08:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 14:39:05 +0000</lastBuildDate>
     <atom:link href="https://axtancap.github.io/asclub-feeds/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Celsius Holdings dispara 117% nas receitas e supera estimativas do mercado</title>
+      <link>https://www.asclub.pt/noticias/celsius-holdings-dispara-117-nas-receitas-e-supera-estimativas-do-mercado</link>
+      <description>Celsius Holdings dispara 117% nas receitas e supera estimativas do mercado</description>
+      <pubDate>Thu, 26 Feb 2026 14:39:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.asclub.pt/noticias/celsius-holdings-dispara-117-nas-receitas-e-supera-estimativas-do-mercado</guid>
+      <dc:creator>AS CLUB</dc:creator>
+    </item>
     <item>
       <title>Salesforce supera estimativas e reforça aposta em IA com recompra de 50 biliões de dólares</title>
       <link>https://www.asclub.pt/noticias/salesforce-supera-estimativas-e-reforça-aposta-em-ia-com-recompra-de-50-biliões-de-dólares</link>
       <description>Salesforce supera estimativas e reforça aposta em IA com recompra de 50 biliões de dólares</description>
-      <pubDate>Thu, 26 Feb 2026 08:03:09 +0000</pubDate>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/salesforce-supera-estimativas-e-reforça-aposta-em-ia-com-recompra-de-50-biliões-de-dólares</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
@@ -157,14 +165,6 @@
       <description>Dividendos, recompras e insider buying marcam semana intensa nos mercados</description>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.asclub.pt/noticias/dividendos-recompras-e-insider-buying-marcam-semana-intensa-nos-mercados</guid>
-      <dc:creator>AS CLUB</dc:creator>
-    </item>
-    <item>
-      <title>Economia dos EUA abranda no 4.º trimestre e inflação PCE volta a acelerar</title>
-      <link>https://www.asclub.pt/noticias/economia-dos-eua-abranda-no-4.º-trimestre-e-inflação-pce-volta-a-acelerar</link>
-      <description>Economia dos EUA abranda no 4.º trimestre e inflação PCE volta a acelerar</description>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.asclub.pt/noticias/economia-dos-eua-abranda-no-4.º-trimestre-e-inflação-pce-volta-a-acelerar</guid>
       <dc:creator>AS CLUB</dc:creator>
     </item>
   </channel>

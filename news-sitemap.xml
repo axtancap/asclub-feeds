@@ -3,13 +3,24 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.asclub.pt/noticias/celsius-holdings-dispara-117-nas-receitas-e-supera-estimativas-do-mercado</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AS CLUB</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26T14:39:05.000Z</news:publication_date>
+      <news:title>Celsius Holdings dispara 117% nas receitas e supera estimativas do mercado</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.asclub.pt/noticias/salesforce-supera-estimativas-e-reforça-aposta-em-ia-com-recompra-de-50-biliões-de-dólares</loc>
     <news:news>
       <news:publication>
         <news:name>AS CLUB</news:name>
         <news:language>pt</news:language>
       </news:publication>
-      <news:publication_date>2026-02-26T08:03:09.000Z</news:publication_date>
+      <news:publication_date>2026-02-26T00:00:00.000Z</news:publication_date>
       <news:title>Salesforce supera estimativas e reforça aposta em IA com recompra de 50 biliões de dólares</news:title>
     </news:news>
   </url>
